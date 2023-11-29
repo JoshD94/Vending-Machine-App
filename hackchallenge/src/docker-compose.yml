@@ -1,0 +1,9 @@
+version: "3"
+services:
+    vending-machine:
+        volumes:
+            - /home/jx372/vending.db:/usr/app/vending.db
+        image: "justinxiang05/vm"
+        # env_file: .env
+        ports:
+            - "80:8000"  
