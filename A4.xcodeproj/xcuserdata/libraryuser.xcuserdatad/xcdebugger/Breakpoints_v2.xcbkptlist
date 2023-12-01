@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8B9EAD95-5D6B-4977-BB6F-D0ED6910A54B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AAB4F36D-5A3C-4BDB-B14E-F7537D4AEBB6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "A4/Views/MachineCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "configure(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AAB4F36D-5A3C-4BDB-B14E-F7537D4AEBB6 - 543be24d0ad23d44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "A4.MachineCollectionViewCell.configure(with: A4.machine) -&gt; ()"
+                  moduleName = "A4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/libraryuser/Downloads/Hack%20Challenge%20Vender%20Machine%202/asdf/Hack%20Challenge%20Vender%20Machine/A4/Views/MachineCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "237">
+               </Location>
+               <Location
+                  uuid = "AAB4F36D-5A3C-4BDB-B14E-F7537D4AEBB6 - 543be24d0ad23d44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "A4.MachineCollectionViewCell.configure(with: A4.machine) -&gt; ()"
+                  moduleName = "A4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/libraryuser/Downloads/Hack%20Challenge%20Vender%20Machine%202/asdf/Hack%20Challenge%20Vender%20Machine/A4/Views/MachineCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "356">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA9B8E07-F490-4510-8ED7-14EBC2F19CE3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "A4/Views/TransactionCollectionCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "configure(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05FA690D-F1AF-4854-8804-6717B7C95C22"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "A4/Controller/sunpage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "05FA690D-F1AF-4854-8804-6717B7C95C22 - 35b80bf9d99be638"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "A4.sunpage.viewDidLoad() -&gt; ()"
+                  moduleName = "A4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/libraryuser/Downloads/Hack%20Challenge%20Vender%20Machine%202/asdf/Hack%20Challenge%20Vender%20Machine/A4/Controller/sunpage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  uuid = "05FA690D-F1AF-4854-8804-6717B7C95C22 - 35b80bf9d99be67a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "A4.sunpage.viewDidLoad() -&gt; ()"
+                  moduleName = "A4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/libraryuser/Downloads/Hack%20Challenge%20Vender%20Machine%202/asdf/Hack%20Challenge%20Vender%20Machine/A4/Controller/sunpage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

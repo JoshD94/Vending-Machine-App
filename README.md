@@ -1,2 +1,3 @@
-# Vending Machine App
-A convenient tool to locate vending machines around campus and monitor and purchase items from wherever you are.
+# A4: ChefOS
+
+You must have Swift 5, iOS 13.0+, and Xcode 12.0+ to run this app.
