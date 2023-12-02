@@ -12,7 +12,7 @@ After clicking into a specific vending machine, you'll find a list of items for 
 
 <img src="https://github.com/justinlxiang/Vending-Machine-App/assets/40130510/b0f3a29a-6a17-4b87-9ff9-619c9f3d7a66" width="250">
 <img src="https://github.com/justinlxiang/Vending-Machine-App/assets/40130510/07542d1b-51b6-401e-b989-2b1928b89592" width="250">
-<img src="https://github.com/justinlxiang/Vending-Machine-App/assets/40130510/b1153a48-a387-4ece-b972-0590f2265d0c" width="250">    
+<img src="https://github.com/justinlxiang/Vending-Machine-App/assets/40130510/b1153a48-a387-4ece-b972-0590f2265d0c" width="250">      
   
 
   
