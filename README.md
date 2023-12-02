@@ -3,7 +3,7 @@ A convenient and easy-to-use app that locates vending machines around campus and
 
 <img src="https://github.com/justinlxiang/Vending-Machine-App/assets/40130510/e1fff88b-764a-4be3-92eb-369aa9c11c92" width = "250">  
 
-On the home page, you'll find a list of all of Cornell's vending machines with their location and whether they take Big Red Bucks and cash.
+On the home page, you'll find a list of all of Cornell's vending machines with their location and whether they take Big Red Bucks and cash.  
 <img src="https://github.com/justinlxiang/Vending-Machine-App/assets/40130510/d9f32eea-fba6-45a3-9ad8-a31d78690efa" width = "250">  
 
   
@@ -17,7 +17,7 @@ After clicking into a specific vending machine, you'll find a list of items for 
 
   
   
-On the app, you can also navigate to your user profile to view your current balance and transaction history, and add funds if needed!
+On the app, you can also navigate to your user profile to view your current balance and transaction history, and add funds if needed!  
 <img src="https://github.com/justinlxiang/Vending-Machine-App/assets/40130510/c70a4657-e34b-4709-a8bf-015f57961d14" width="200">
 <img src="https://github.com/justinlxiang/Vending-Machine-App/assets/40130510/a2dbaafe-c782-4359-9d0f-8f3e3c0912ba" width="200">
 <img src="https://github.com/justinlxiang/Vending-Machine-App/assets/40130510/46231fd6-8fc2-48fc-8665-61796c003a76" width="200">
