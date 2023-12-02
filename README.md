@@ -1,5 +1,5 @@
 # Cornell Vending  
-A convenient and easy-to-use app that locates vending machines around campus and helps you track and purchase items from wherever you are. 
+A convenient and easy-to-use app that locates vending machines around campus and helps you track and purchase items from wherever you are!  
 
 <img src="https://github.com/justinlxiang/Vending-Machine-App/assets/40130510/e1fff88b-764a-4be3-92eb-369aa9c11c92" width = "250">  
 
